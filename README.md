@@ -29,7 +29,7 @@ The game gives the user control of the paddle which is used to reflect the ball 
 * The player has 3 Lives.
 * These 3 lives are transferred within all of the levels and must be used to complete all 4 levels of the game. 
 
-### [CODE](brick-breaker/project)
+### [CODE](bricks.cpp)
 
 ## Snake Game
 
@@ -46,4 +46,4 @@ This implementation of the Snake game includes additional features such as a sco
 Feel free to use this code in your own projects or modify it to suit your needs.
 Happy gaming!
 
-### [CODE]()
+### [CODE](snake-game.c)
